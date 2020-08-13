@@ -3,7 +3,7 @@ This is the implementation of the face landmarks detection of DLIB. <br>
 It's the implementation of Disney landmarks perturbation
 ## Steps
 1. CLone the project
-2. Download the shape predictor of dlib from this link, next save it under the folder data with the name shapePredictor.dat
+2. Download the shape predictor of dlib from this link [drive](https://drive.google.com/file/d/1Vu2eHpnjdCRulUDaDUPFzBtfFfOiw2IW/view?usp=sharing), next save it under the folder data with the name shapePredictor.dat
 3. execute the main.py if you want to test the code
 
 ## template command line
