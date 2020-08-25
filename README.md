@@ -17,7 +17,7 @@ No required version
 ## Possible inputs
 The main function inputs:<br>
 * one image (.png, .jpg, .jpeg)
-* folder of images
+* folder of images **(not ready yet)**
 * a video (.avi, .mp4, .mpeg)
 ## template command line
 1. One image
@@ -25,7 +25,7 @@ The main function inputs:<br>
 or
 > python main.py -i ./test/face.png -o ./test
 
-2. Folder of images
+2. Folder of images  **(not ready yet)**
 > python main.py -i ./test -o ./test
 
 3. Folder of images
