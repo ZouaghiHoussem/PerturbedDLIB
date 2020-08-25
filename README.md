@@ -8,7 +8,7 @@ No required version
 * OpenCV
 > pip install opencv-python
 * Numpy
-pip install numpy
+> pip install numpy
 
 ## Steps
 1. CLone the project
