@@ -3,7 +3,13 @@ import dlib
 from dlib import rectangle
 import cv2
 from imutils import face_utils
+import os
 
+def is_image(file_path):
+    return os.path.basename(file_path).split('.')[1].upper() in ["JPEG", "JPG", "PNG"]
+
+def is_video(file_path):
+    return os.path.basename(file_path).split('.')[1].upper() in ["MP4", "AVI", "MPEG"]
 
 def plot_kpt(image, kpt, dot_color=(255, 0, 0)):
     image = image.copy()
