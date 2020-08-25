@@ -1,5 +1,5 @@
 # PerturbedDLIB
-This is the implementation of the face landmarks detection of DLIB. <br>
+This is the implementation of the perturbed face landmarks detection using DLIB. <br>
 It's the implementation of Disney landmarks perturbation
 # Requirements
 No required version
