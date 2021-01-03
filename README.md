@@ -1,6 +1,6 @@
 # PerturbedDLIB
 This is the implementation of the perturbed face landmarks detection using DLIB. <br>
-It's the implementation of Disney landmarks perturbation
+It's the implementation of Disney landmarks perturbation proposed by Naruniec, Helminger,Schroers & Weber (2020).
 # Requirements
 No required version
 * DLib 
@@ -30,3 +30,7 @@ or
 
 3. Folder of images
 > python main.py -i ./test/video.mp4 -o ./test/frames
+
+References
+
+1. Naruniec, J., Helminger, L., Schroers, C. & Weber, R. (2020). High-Resolution Neural FaceSwapping for Visual Effects.Computer Graphics Forum, 39(4), 173–184.
